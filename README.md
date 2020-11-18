@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=mahadi-devo&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-devo)](https://github.com/mahadi-devo/github-readme-stats)
+</br>
+[twitter]: https://twitter.com/Mahadihassan001/
+[linkedin]: www.linkedin.com/in/mahadi-hassan/
 
-[twitter]: https://twitter.com/Mahadihassan001
-[linkedin]: 
-[Facebook]: 
