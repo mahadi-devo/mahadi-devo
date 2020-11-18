@@ -1,10 +1,10 @@
 ### Hi there 👋  I am Mahadi Hassan
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning MERN STACK
+- 💼 I’m actively looking for a job on nodejs
 - 👯 I’m looking to collaborate on open source projects on anything related to javascript. 
+- ⚡ Fun fact: 🏉
 
 
 ![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=mahadi-devo&show_icons=true)
