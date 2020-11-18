@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=mahadi-devo&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-devo)](https://github.com/mahadi-devo/github-readme-stats)
+
+[twitter]: https://twitter.com/Mahadihassan001
+[linkedin]: 
+[Facebook]: 
