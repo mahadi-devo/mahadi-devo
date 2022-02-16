@@ -18,9 +18,6 @@
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a> 
 
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahadi-devo.mahadi-devo)
-
 
 <!--![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=mahadi-devo&show_icons=true)  -->
 
