@@ -18,6 +18,9 @@
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a> 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mahadi-hassan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/mahadi-hassan?trk=profile-badge">Mahadi Hassan</a></div>
+              
+
 
 <!--![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=mahadi-devo&show_icons=true)  -->
 
